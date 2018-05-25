@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a HTTP wrapper for domain active directory. Active directory can be overwhelming for many developers. But sometimes all we need is to read user information from active directory or get members from an AD group. This project provides a REST api for that.
+Active directory can be overwhelming for many developers. Sometimes all we need is to read user information from active directory or get members from an AD group. This project provides a REST api for that.
 
 ## Prerequisites
 
