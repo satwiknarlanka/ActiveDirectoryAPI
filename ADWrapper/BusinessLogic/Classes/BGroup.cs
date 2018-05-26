@@ -90,6 +90,7 @@ namespace ADWrapper.BusinessLogic.Classes
                         
                     }
                 }
+                groupList.Remove(currentGroup);
             }
             return false;
         }
